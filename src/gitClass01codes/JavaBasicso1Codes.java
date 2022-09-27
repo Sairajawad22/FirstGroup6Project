@@ -1,6 +1,6 @@
-package gitClass01;
+package gitClass01codes;
 
-public class GitClass01 {
+public class JavaBasicso1Codes {
 
 	public static void main(String[] args) {
 		// code to launch the nuclear weapon
